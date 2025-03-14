@@ -1,7 +1,7 @@
 
 # 💰 GestorFinanceiro
 
-![GestorFinanceiro](public/og-image.png)
+![GestorFinanceiro]
 
 ## Sobre o Projeto
 
